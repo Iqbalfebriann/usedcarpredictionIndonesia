@@ -1,2 +1,1 @@
-# usedcarpredictionIndonesia
-Used Car Prediction App Deploy on Heroku
+Used Car Prediction App

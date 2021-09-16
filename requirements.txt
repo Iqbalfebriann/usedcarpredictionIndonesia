@@ -1,0 +1,4 @@
+streamlit
+pandas>=0.19
+matplotlib>=1.4.3
+numpy>=1.92
